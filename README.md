@@ -23,3 +23,9 @@ Already a user? Sign In -Module 3
 
 ![signInsucess](https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/Images/signInsuccess.png)
 
+Database screenshot: 
+![DBcreation]( https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/creationDB.jpeg
+)
+
+![TBcreation]( https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/creationTb.jpeg
+)
